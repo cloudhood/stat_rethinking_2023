@@ -1,1 +1,1 @@
-# stat_rethinking_2023
+# Statistical Rethinking Course 2023
